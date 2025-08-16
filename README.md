@@ -7,3 +7,6 @@
 https://en.wikipedia.org/wiki/Thin-film_solar_cell
 - https://en.wikipedia.org/wiki/Copper_indium_gallium_selenide_solar_cell
 - https://en.wikipedia.org/wiki/Cadmium_telluride_photovoltaics
+
+# Transparent conducting oxides
+https://en.wikipedia.org/wiki/Transparent_conducting_film#Transparent_conducting_oxides
