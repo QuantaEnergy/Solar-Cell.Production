@@ -5,3 +5,5 @@
 
 # Thin Film
 https://en.wikipedia.org/wiki/Thin-film_solar_cell
+- https://en.wikipedia.org/wiki/Copper_indium_gallium_selenide_solar_cell
+- https://en.wikipedia.org/wiki/Cadmium_telluride_photovoltaics
