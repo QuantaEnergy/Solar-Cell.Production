@@ -10,3 +10,4 @@ https://en.wikipedia.org/wiki/Thin-film_solar_cell
 
 # Transparent conducting oxides
 https://en.wikipedia.org/wiki/Transparent_conducting_film#Transparent_conducting_oxides
+- https://en.wikipedia.org/wiki/Tin(IV)_oxide
